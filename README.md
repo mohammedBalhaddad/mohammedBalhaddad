@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedBalhaddad - https://mbalhaddad.com/
-- 🏢 currently system developer @ STC
-- 👀 I’m interested in Spring / Laravel
+- 🏢 currently is a senior software engineer @ STC
+- 👀 I’m interested in Spring / Laravel 
 - 🌱 I’m currently learning Audio File Processing / AI 
 - 📫 How to reach me : 
   -  Email : mb@mbalhaddad.com 
